@@ -94,6 +94,9 @@ jdalbey -
 Three myths about software testing.
 Doug: I take some exception to the idea that unit tests are only to find bugs. With TDD (even on legacy code), unit tests serve as executable design/requirements and are the gutters along the fairway that keep my bowling ball from hitting the pins in someone else's lane.
 
+`Testing Pyramids <https://alisterbscott.com/kb/testing-pyramids/>`_ -
+Quality Thoughts w/Alisted B. Scott -
+A collection of visual representations (pyramids, usually, and an ice-cream cone anti-pattern) of testing efforts. 
 
 General
 ~~~~~~~
