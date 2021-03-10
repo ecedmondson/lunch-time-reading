@@ -212,6 +212,11 @@ Keep asking why you are doing something.
 Seth Godin -
 Another take on The Process Myth, on the mindless following of process without understanding why.
 
+Infrastructure
+~~~~~~~~~~~~~~
+`Testing Terraform  <https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/>`_ –
+Yevgeniy Brikman -
+How to test infrastructure code.
 
 Credits
 ~~~~~~~
@@ -220,3 +225,5 @@ Doug (@dgou) and Chris (@cdemattio) over the years,
 and augmented by Lewis (@brolewis), Ryan (@rbcasperson), and Shawn (@sdutton-personal).
 
 Organizational structure and general curation work has largely been by Doug (@dgou).
+
+This particular copy is a fork by @ecedmondson, when introduced to a team with the above.
