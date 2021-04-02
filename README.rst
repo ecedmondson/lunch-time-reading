@@ -218,6 +218,13 @@ Infrastructure
 Yevgeniy Brikman -
 How to test infrastructure code.
 
+Docker
+~~~~~~~~~~~~~~
+`Primer on Docker Networking Rules  <https://www.ctl.io/developers/blog/post/docker-networking-rules>`_ –
+Laura Frank -
+Overview of some easy to forget Networking Rules
+
+
 Credits
 ~~~~~~~
 This content was started from a series of email exchanges between
@@ -226,4 +233,4 @@ and augmented by Lewis (@brolewis), Ryan (@rbcasperson), and Shawn (@sdutton-per
 
 Organizational structure and general curation work has largely been by Doug (@dgou).
 
-This particular copy is a fork by @ecedmondson, when introduced to a team with the above.
+This particular copy is a fork by @ecedmondson, when introduced to the above team.
